@@ -29,13 +29,9 @@ You will need to add your own Nexmo api key, secret and virtual number
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+nameissanthu
 
 ### Version
 
 1.0.0
 
-### License
-
-This project is licensed under the MIT License
